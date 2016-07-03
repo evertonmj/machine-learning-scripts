@@ -1,0 +1,15 @@
+Dia;Tempo;Temperatura;Umidade;Vento;Jogar Tenis
+1;Ensolarado;Quente;Alta;Fraco;Nao
+2;Ensolarado;Quente;Alta;Forte;Nao
+3;Nublado;Quente;Alta;Fraco;Sim
+4;Chuvoso;Intermediaria;Alta;Fraco;Sim
+5;Chuvoso;Fria;Normal;Fraco;Sim
+6;Chuvoso;Fria;Normal;Forte;Nao
+7;Nublado;Fria;Normal;Forte;Sim
+8;Ensolarado;Intermediaria;Alta;Fraco;Nao
+9;Ensolarado;Fria;Normal;Fraco;Sim
+10;Chuvoso;Intermediaria;Normal;Fraco;Sim
+11;Ensolarado;Intermediaria;Normal;Forte;Sim
+12;Nublado;Intermediaria;Alta;Forte;Sim
+13;Nublado;Quente;Normal;Fraco;Sim
+14;Chuvoso;Intermediaria;Alta;Forte;Nao

@@ -1,0 +1,19 @@
+head
+cd ~/workspace
+load("/Users/everton/workspace/R/bancoufba.rData")
+head(banco.ufba)
+boxplot(banco.ufba$peso)
+q
+q()
+setwd("/Users/everton/Google Drive/UFBA/Mestrado/Aprendizado de Máquina/Introdução ao R/Scripts/")
+source("wdbc.data")
+package.install("e1071")
+install.package("e1071")
+install.packages("e1071")
+source("wdbc.data")
+source("wdbc.data")
+source("wdbc.R")
+classAgreement(tab)
+model
+source("exemplo-iris.R")
+source("exemplo-iris.R")

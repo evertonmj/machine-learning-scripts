@@ -1,0 +1,12 @@
+16;medium;low;low;low;true;true;false;false;true;true
+28;medium;medium;high;low;false;true;true;true;false;false
+42;low;low;low;low;true;true;false;true;false;false
+12;medium;low;low;low;true;true;true;false;true;true
+72;low;medium;low;high;true;true;false;true;true;false
+101;low;medium;low;high;true;false;true;true;false;false
+101;low;medium;low;high;true;false;true;true;false;false
+77;low;medium;high;high;true;false;true;false;true;false
+23;medium;low;low;low;true;false;true;false;true;false
+109;low;medium;low;high;true;false;false;false;true;false
+69;low;medium;low;high;false;false;true;true;true;false
+69;low;medium;low;high;false;false;true;true;true;false
